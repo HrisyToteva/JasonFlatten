@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\CodingChallenge.exe
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\CodingChallenge.deps.json
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\CodingChallenge.runtimeconfig.json
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\CodingChallenge.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\CodingChallenge.dll
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\CodingChallenge.pdb
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\JsonFlatten.dll
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.AssemblyInfo.cs
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.csproj.CopyComplete
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.dll
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.pdb
+C:\Users\PC\source\repos\CodingChallenge\CodingChallenge\obj\Release\netcoreapp3.1\CodingChallenge.genruntimeconfig.cache
